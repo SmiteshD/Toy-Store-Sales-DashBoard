@@ -33,4 +33,4 @@ Enjoy exploring the Toy Store Sales Dashboard and unraveling the fascinating wor
 
 Happy analyzing!
 
-Smitesh Dutta
+Smitesh Dutta🙂
