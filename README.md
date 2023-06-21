@@ -26,7 +26,6 @@ The data used in this dashboard is sourced from the Toy Store's internal sales r
 
 Contributions to this dashboard are welcome! If you spot any issues, have suggestions for improvements, or would like to add new features, please submit a pull request. 
 
-
 ---
 
 Enjoy exploring the Toy Store Sales Dashboard and unraveling the fascinating world of toy sales! Should you have any questions or need further assistance, please don't hesitate to reach out.
